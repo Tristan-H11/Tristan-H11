@@ -1,3 +1,10 @@
-[![Tristans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tristan-H11&count_private=true&show_icons=true&include_all_commits=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-H11&count_private=true&langs_count=6&include_all_commits=true&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-H11&theme=vue"/>
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tristan-H11&theme=vue"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tristan-H11&theme=vue"/>
+</p>
+<p align="center">
+    <img align=center src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tristan-H11&theme=vue"/>
+</p>
