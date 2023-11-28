@@ -9,5 +9,5 @@
     <img align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-H11&theme=vue"/>
 </p>
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tristan-H11)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tristan-H11" alt="GitHub Streak" />
 </p>
